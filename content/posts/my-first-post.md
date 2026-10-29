@@ -4,5 +4,4 @@ draft = false
 title = 'My First Post'
 +++
 
-Hey，did this work. Is this a blog now?
-
+Holy smokes. I made a blog. Amazing.
