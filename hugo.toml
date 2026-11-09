@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sensational-nougat-1080dd.netlify.app'
 locale = 'en-us'
 title = 'Deadlift Factory'
 theme = 'zen'
