@@ -2,3 +2,5 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'Deadlift Factory'
 theme = 'zen'
+[params]
+  logo = false
