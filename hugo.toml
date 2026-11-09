@@ -4,3 +4,4 @@ title = 'Deadlift Factory'
 theme = 'zen'
 [params]
   logo = false
+  submitted = true
