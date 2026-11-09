@@ -1,9 +1,6 @@
 {
   "name": "deadliftfactory",
   "compatibility_date": "2026-11-09",
-  "build": {
-    "command": "hugo"
-  },
   "assets": {
     "directory": "./public"
   }
