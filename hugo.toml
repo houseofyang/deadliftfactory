@@ -5,3 +5,4 @@ theme = 'zen'
 [params]
   logo = false
   submitted = true
+  mainSections = ["posts"]
