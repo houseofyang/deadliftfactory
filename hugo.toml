@@ -2,6 +2,7 @@ baseURL = 'https://deadliftfactory.com'
 locale = 'en-us'
 title = 'Deadlift Factory'
 theme = 'zen'
+paginate = 10
 [params]
   logo = false
   submitted = true
